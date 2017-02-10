@@ -1,0 +1,188 @@
+@media (min-width: 500px) {
+#cabecera {
+  background-color: #5b7989;
+  border-radius: 10px 10px 0 0;
+  margin: 0;
+  height: 100px;
+  text-shadow: 2px 2px #02010a;
+  font-family: comic sans ms;
+}
+#cabecera h1{
+  color: white;
+  text-align: left;
+  margin: 0;
+}
+#cabecera nav{
+  font-size: 1.200em;
+  height: 40px;
+  line-height: 30px;
+  margin:0;
+  text-align: right;
+}
+#cabecera ul{
+  margin: 0;
+  width: 75%;
+}
+#cabecera li{
+  float: right;
+  display: inline;
+  margin: 0;
+}
+#cabecera a{
+  color: white;
+  display: inline-block;
+  height: 30px;
+  padding: 5px 1.5em;
+  text-decoration: none;
+}
+#cabecera a:hover{
+  text-decoration: underline;
+}
+#cuerpo{
+  text-align: center;
+  background: #333333;
+}
+#cuerpo div{
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+}
+#cuerpo img{
+  width: 400px;
+  height: 300px;
+  margin: 0;
+}
+.img1{
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
+}
+.img2{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.img3{
+  -webkit-filter: sepia(100%);
+  filter: sepia(100%);
+}
+.img4{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.img6{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+footer{
+  border-radius: 0 0 10px 10px;
+  background: #C6d5c5;
+  text-align: center;
+  color:black;
+  text-shadow: 2px 2px grey;
+  font-family: Comic Sans MS;
+}
+footer div{
+  display: inline-block;
+  margin-top: 0;
+}
+footer #redessociales{
+  height: 20px;
+  width: 20px;
+  border-radius: 5px;
+  margin: 0;
+}
+}
+@media (max-width:499px) {
+#cabecera{
+  background-color: #5b7989;
+  border-radius: 10px 10px 0 0;
+  font-family:comic sans ms;
+  margin: 0;
+  height: 125px;
+  text-shadow: 2px 2px  #02010a;
+}
+#cabecera h1{
+  color: white;
+  text-align: left;
+  font-size: 1.9em;
+  margin: 0;
+}
+#cabecera nav{
+  font-size: 1.143em;
+  height: 40px;
+  line-height: 30px;
+  margin: 0;
+  text-align: center;
+}
+#cabecera ul{
+  margin: 0;
+  width: 75%;
+
+}
+#cabecera li{
+  float: center;
+  display: inline;
+  margin:0;
+}
+#cabecera a{
+  color: white;
+  display: inline-block;
+  height: 30px;
+  padding: 2px 0.5em;
+  text-decoration: none;
+}
+#cabecera a:hover{
+  text-decoration: underline;
+}
+#cuerpo{
+  text-align: center;
+  background: #333333;
+}
+#cuerpo div{
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+}
+#cuerpo img{
+  width: 300px;
+  height: 300px;
+  margin: 0;
+}
+.img1{
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
+}
+.img2{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.img3{
+  -webkit-filter: sepia(100%);
+  filter: sepia(100%);
+}
+.img4{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.img6{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+footer{
+  border-radius: 0 0 10px 10px;
+  background: #C6d5c5;
+  text-align: center;
+  color:black;
+  text-shadow: 2px 2px grey;
+  font-family: Comic Sans MS;
+}
+footer div{
+  display: inline-block;
+  margin-top: 0;
+}
+footer #redessociales{
+  height: 20px;
+  width: 20px;
+  border-radius: 5px;
+  margin: 0;
+}
+}
