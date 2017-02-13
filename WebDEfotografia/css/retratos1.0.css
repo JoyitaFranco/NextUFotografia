@@ -40,7 +40,7 @@
 }
 #cuerpo{
   text-align: center;
-  background: #333333;
+  background: #d5c75f;
 }
 #cuerpo div{
   display: inline-block;
@@ -48,9 +48,9 @@
   text-align: center;
 }
 #cuerpo img{
-  width: 400px;
+  width: 300px;
   height: 300px;
-  margin: 0;
+  margin: 20px;
 }
 .img1{
   -webkit-filter: blur(10px);
@@ -135,7 +135,7 @@ footer #redessociales{
 }
 #cuerpo{
   text-align: center;
-  background: #333333;
+  background: #d5c75f;
 }
 #cuerpo div{
   display: inline-block;
@@ -145,7 +145,7 @@ footer #redessociales{
 #cuerpo img{
   width: 300px;
   height: 300px;
-  margin: 0;
+  margin: 10px;
 }
 .img1{
   -webkit-filter: blur(10px);
